@@ -1,0 +1,24 @@
+{
+  "name": "fake-component",
+  "authors": [
+    "Alvaro Pinot <alvaro@neatnait.com>"
+  ],
+  "description": "fake component but cool",
+  "main": "index.html",
+  "keywords": [
+    "fake",
+    "cool",
+    "component",
+    "sulfur"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
